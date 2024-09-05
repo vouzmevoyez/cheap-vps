@@ -4,7 +4,7 @@
 <br>
 
 
-<h3>1. <a href="https://www.racknerd.com/">RackNerd</a></h3>
+<h3>1. <a href="https://www.racknerd.com/" target="_blank">RackNerd</a></h3>
 <table border="1">
   <thead>
     <tr>
@@ -50,4 +50,36 @@
     </tr>
   </tbody>
 </table>
+
+<h3>2. <a href="https://www.cloudserver.net/" target="_blank">CloudServer</a></h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Plan</th>
+      <th>Details</th>
+      <th>Purchase Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LEB 1GB Annual Plan</td>
+      <td>
+        1x vCPU Core <br>
+        20 GB SSD Storage <br>
+        1GB RAM <br>
+        1000GB Monthly Bandwidth <br>
+        1Gbps Public Network Port <br>
+        Full Root Admin Access <br>
+        1 Dedicated IPv4 Address <br>
+        KVM <br>
+        Available in Multiple Locations<br>
+        Price: $10.00/year
+      </td>
+      <td>
+        <a href="https://cloudserver.net/billing/cart.php?a=confproduct&i=0" target="_blank">Purchase</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
